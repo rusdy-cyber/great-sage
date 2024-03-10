@@ -5,17 +5,17 @@ Author: [Shawar Khan] (https://shawarkhan.com/about/)
 
 Disclaimer: I am not responsible for any damage done using this tool. This tool should only be used for educational purposes and for penetration testing.
 
-###Compatibility:
+### Compatibility:
 * Any platform using Python 2.7
 
-###Requirements:
+### Requirements:
 * Python 2.7
 * Modules(included): Colorama, BeautifulSoup
 
-###Description:
+### Description:
 **D-TECT** is an All-In-One Tool for Penetration Testing. This is specially programmed for Penetration Testers and Security Researchers to make their job easier, instead of launching different tools for performing different task. **D-TECT** provides multiple features and detection features which gather target information and finds different flaws in it. 
 
-###Features:
+### Features:
 * Sub-domain Scanning
 * Port Scanning
 * Wordpress Scanning
@@ -28,42 +28,42 @@ Disclaimer: I am not responsible for any damage done using this tool. This tool 
 * SQL Injection vulnerability scanning
 * User-Friendly UI
 
-###Usage:
+### Usage:
 python d-tect.py
 
 #Screenshots:
 
-###Menu:
+### Menu:
 ![Menu](https://github.com/rusdy-cyber/great-sage/blob/main/Screenshots/menu.png)
 
-###Banner Grabbing:
+### Banner Grabbing:
 ![Banner Grabbing](https://github.com/rusdy-cyber/great-sage/blob/main/Screenshots/banner.png)
 
-###Click Jacking Detection:
+### Click Jacking Detection:
 ![Click Jacking](https://github.com/rusdy-cyber/great-sage/blob/main/Screenshots/clickjacking.png)
 
-###Port Scanner:
+### Port Scanner:
 ![Port Scanner](https://github.com/rusdy-cyber/great-sage/blob/main/Screenshots/portscan.png)
 
-###WP Backup Grabber:
+### WP Backup Grabber:
 ![WP Backup Grabber](https://github.com/rusdy-cyber/great-sage/blob/main/Screenshots/backup.png)
 
-###Sensitive File Detection:
+### Sensitive File Detection:
 ![File Detection](https://github.com/rusdy-cyber/great-sage/blob/main/Screenshots/filedetection.png)
 
-###Cross-Site Scripting [ XSS ] Scanner:
+### Cross-Site Scripting [ XSS ] Scanner:
 ![XSS Scanner](https://github.com/rusdy-cyber/great-sage/blob/main/Screenshots/xss.png)
 
-###SQL Injection [ SQLI ] Scanner:
+### SQL Injection [ SQLI ] Scanner:
 ![SQLI Scanner](https://github.com/rusdy-cyber/great-sage/blob/main/Screenshots/sqli.png)
 
-###Sub-domain Scanner:
+### Sub-domain Scanner:
 ![Sub-Domain Scanner](https://github.com/rusdy-cyber/great-sage/blob/main/Screenshots/subdomain.png)
 
-###WP Username Enumeration:
+### WP Username Enumeration:
 ![WP Username Enumeration](https://github.com/rusdy-cyber/great-sage/blob/main/Screenshots/usernameenumeration.png)
 
-###Same Site Scripting detection:
+### Same Site Scripting detection:
 ![Same-Site Scripting](https://github.com/rusdy-cyber/great-sage/blob/main/Screenshots/samesitescripting.jpeg)
 
 ## instalation
