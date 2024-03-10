@@ -1,4 +1,4 @@
-# D-TECT
+# `great-sage`  D-TECT
 D-TECT - Pentest the Modern Web
 
 Author: [Shawar Khan] (https://shawarkhan.com/about/)
@@ -37,7 +37,7 @@ python d-tect.py
 ![Menu](https://raw.githubusercontent.com/shawarkhanethicalhacker/D-TECT/master/Screenshots/menu.png)
 
 ###Banner Grabbing:
-![Banner Grabbing](https://raw.githubusercontent.com/shawarkhanethicalhacker/D-TECT/master/Screenshots/banner.png)
+![Banner Grabbing](https://raw.githubusercontent.com/Screenshots/banner.png)
 
 ###Click Jacking Detection:
 ![Click Jacking](https://raw.githubusercontent.com/shawarkhanethicalhacker/D-TECT/master/Screenshots/clickjacking.png)
@@ -66,6 +66,13 @@ python d-tect.py
 ###Same Site Scripting detection:
 ![Same-Site Scripting](https://raw.githubusercontent.com/shawarkhanethicalhacker/D-TECT/master/Screenshots/samesitescripting.jpeg)
 
+## instalation
+```
+$ pkg install python 2.7
+$ apt install python 2.7
+$ git clone https://github.com/rusdy-cyber/great-sage
+$ python d-tect.py
+```
 # Special Thanks To:
 * Curt Smith
 * Tayyab Qadir
