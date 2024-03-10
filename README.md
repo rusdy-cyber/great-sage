@@ -1,5 +1,5 @@
 # `great-sage`  D-TECT
-D-TECT - Pentest the Modern Web
+GREAT-SAGE - Pentest the Modern Web
 
 Author: [Shawar Khan] (https://shawarkhan.com/about/)
 
@@ -13,7 +13,7 @@ Disclaimer: I am not responsible for any damage done using this tool. This tool 
 * Modules(included): Colorama, BeautifulSoup
 
 ### Description:
-**D-TECT** is an All-In-One Tool for Penetration Testing. This is specially programmed for Penetration Testers and Security Researchers to make their job easier, instead of launching different tools for performing different task. **D-TECT** provides multiple features and detection features which gather target information and finds different flaws in it. 
+**great-sage** is an All-In-One Tool for Penetration Testing. This is specially programmed for Penetration Testers and Security Researchers to make their job easier, instead of launching different tools for performing different task. **great-sage** provides multiple features and detection features which gather target information and finds different flaws in it. 
 
 ### Features:
 * Sub-domain Scanning
@@ -31,7 +31,7 @@ Disclaimer: I am not responsible for any damage done using this tool. This tool 
 ### Usage:
 python d-tect.py
 
-#Screenshots:
+# Screenshots:
 
 ### Menu:
 ![Menu](https://github.com/rusdy-cyber/great-sage/blob/main/Screenshots/menu.png)
